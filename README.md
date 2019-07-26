@@ -8,7 +8,7 @@
 [Download Python 3](https://www.python.org/downloads/mac-osx/)
 
 or install via [Homebrew](https://brew.sh/)
-> - brew install python3
+> - `brew install python3`
 
 `virtualenv --help` 
 
