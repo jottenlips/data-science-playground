@@ -2,13 +2,14 @@
 # Getting Started
 
 ## Install
-`virtualenv --help`
 
-if you do not have it `pip install virtualenv`
+* Run in your terminal.
 
-Create and activate a python environment.
+`virtualenv --help` 
 
-Run the commands in this order.
+* If you do not have it `pip install virtualenv`
+
+* Create and activate a python environment. Run these commands in order.
 
 `virtualenv -p python3 venv`
 
@@ -18,13 +19,15 @@ Run the commands in this order.
 
 ## Run 
 
-run the command `jupyter notebook`
+* run the command `jupyter notebook` to start your notebook
 
 ## Tutorial
 
 navigate to `http://localhost:8888/notebooks/notebook.ipynb` in your browser
 
 * shift+enter to run each cell
+
+* open different json files and learn pandas :)
 
 
 
