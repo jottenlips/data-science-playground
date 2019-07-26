@@ -5,6 +5,11 @@
 
 * Run in your terminal.
 
+[Download Python 3](https://www.python.org/downloads/mac-osx/)
+
+or install via [Homebrew](https://brew.sh/)
+> - brew install python3
+
 `virtualenv --help` 
 
 * If you do not have it `pip install virtualenv`
