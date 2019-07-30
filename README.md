@@ -16,6 +16,8 @@ or install via [Homebrew](https://brew.sh/)
 
 * Create and activate a python environment. Run these commands in order.
 
+`cd data-science-playground`
+
 `virtualenv -p python3 venv`
 
 `source ./venv/bin/activate`
