@@ -12,7 +12,7 @@ or install via [Homebrew](https://brew.sh/)
 
 `virtualenv --help` 
 
-* If you do not have it `pip install virtualenv`
+* If you do not have it `pip3 install virtualenv`
 
 * Create and activate a python environment. Run these commands in order.
 
@@ -22,7 +22,7 @@ or install via [Homebrew](https://brew.sh/)
 
 `source ./venv/bin/activate`
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Run 
 
