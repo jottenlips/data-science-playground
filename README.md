@@ -26,6 +26,12 @@ or install via [Homebrew](https://brew.sh/)
 
 ## Run 
 
+be sure to be in the directory `data-science-playground` in your terminal.
+
+be sure you have activated your virtual environment.
+`source ./venv/bin/activate`
+
+
 * run the command `jupyter notebook` to start your notebook
 
 ## Tutorial
@@ -35,6 +41,8 @@ navigate to `http://localhost:8888/notebooks/notebook.ipynb` in your browser
 * shift+enter to run each cell
 
 * open different json files and learn pandas :)
+
+
 
 
 
